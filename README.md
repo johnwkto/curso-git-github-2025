@@ -66,6 +66,12 @@ Pessoas participantes:
 - Tales
 - Téo Calvo
 
+----
+
 ## Integração com VS CODE
 
 Testando a integração com o VScode
+
+## Integração com VS CODE
+
+Testando novamente
